@@ -1,0 +1,6 @@
+User-agent: * 
+Crawl-Delay: 20
+Disallow: /sunforrent.com/
+Disallow: /rewind/
+Disallow: /wyattandrowan.com/
+Disallow: wp-content.zip

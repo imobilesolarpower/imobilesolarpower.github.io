@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>recharge &#8211; Mobile Solar</title>
+	<atom:link href="https://www.mobilesolarpower.net/tag/recharge/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobilesolarpower.net</link>
+	<description>Solar Generators and Light Towers</description>
+	<lastBuildDate>
+	Thu, 19 May 2022 15:31:30 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.13</generator>
+	<item>
+		<title>How long does it take to recharge?</title>
+		<link>https://www.mobilesolarpower.net/how-long-does-it-take-to-recharge/</link>
+				<pubDate>Sat, 01 Apr 2017 18:17:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sara]]></dc:creator>
+				<category><![CDATA[Learn more about Solar Generators]]></category>
+		<category><![CDATA[battery capacity]]></category>
+		<category><![CDATA[Mobile Solar]]></category>
+		<category><![CDATA[recharge]]></category>
+		<category><![CDATA[solar generator]]></category>
+
+		<guid isPermaLink="false">https://www.mobilesolarpower.net/?p=2675</guid>
+				<description><![CDATA[<p>To determine recharge time from the solar panels, just divide the utilized battery capacity (in kWh) by the daily solar harvest (in kWh/day).  For instance, the MS-225 has a battery capacity of 25kWh and solar array has a daily harvest of 9kWh/day.  Let’s assume you ...</p>
+<p>The post <a rel="nofollow" href="https://www.mobilesolarpower.net/how-long-does-it-take-to-recharge/">How long does it take to recharge?</a> appeared first on <a rel="nofollow" href="https://www.mobilesolarpower.net">Mobile Solar</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>To determine recharge time from the solar panels, just divide the utilized battery capacity (in kWh) by the daily solar harvest (in kWh/day).  For instance, the MS-225 has a battery capacity of 25kWh and solar array has a daily harvest of 9kWh/day.  Let’s assume you drain the battery down 80% (meaning 20% is left in the battery).  The math: 25kWh x 0.80 = 20kWh.  And 20kWh / 9kWh/day = 2.2 days of solar charge to bring the battery back up to a 100% State of Charge (SOC).</p>
+<p><a href="https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside.jpg"><img class="alignnone size-medium wp-image-2565" src="https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside-300x216.jpg" alt="MS-375 inside" srcset="https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside-300x216.jpg 300w, https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside-1024x737.jpg 1024w, https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside-766x552.jpg 766w, https://www.mobilesolarpower.net/wp-content/uploads/2017/01/MS-375-inside-1200x864.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The post <a rel="nofollow" href="https://www.mobilesolarpower.net/how-long-does-it-take-to-recharge/">How long does it take to recharge?</a> appeared first on <a rel="nofollow" href="https://www.mobilesolarpower.net">Mobile Solar</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

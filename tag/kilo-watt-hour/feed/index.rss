@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kilo-watt hour &#8211; Mobile Solar</title>
+	<atom:link href="https://www.mobilesolarpower.net/tag/kilo-watt-hour/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobilesolarpower.net</link>
+	<description>Solar Generators and Light Towers</description>
+	<lastBuildDate>
+	Thu, 19 May 2022 15:31:30 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.13</generator>
+	<item>
+		<title>What is the difference between a Kilo-Watt and a Kilo-Watt-Hour?</title>
+		<link>https://www.mobilesolarpower.net/what-is-the-difference-between-a-kilo-watt-and-a-kilo-watt-hour/</link>
+				<pubDate>Mon, 03 Apr 2017 18:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[Sara]]></dc:creator>
+				<category><![CDATA[Learn more about Solar Generators]]></category>
+		<category><![CDATA[Kilo-Watt]]></category>
+		<category><![CDATA[kilo-watt hour]]></category>
+
+		<guid isPermaLink="false">https://www.mobilesolarpower.net/?p=2682</guid>
+				<description><![CDATA[<p>The short answer is that a kilo-Watt represents Power, while a Kilo-Watt-Hour represents Power transmitted over a period of time, otherwise known as Energy. Most of us think of these terms as synonymous, but they are not. A KW is a measured real-time rate of ...</p>
+<p>The post <a rel="nofollow" href="https://www.mobilesolarpower.net/what-is-the-difference-between-a-kilo-watt-and-a-kilo-watt-hour/">What is the difference between a Kilo-Watt and a Kilo-Watt-Hour?</a> appeared first on <a rel="nofollow" href="https://www.mobilesolarpower.net">Mobile Solar</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The short answer is that a kilo-Watt represents Power, while a Kilo-Watt-Hour represents Power transmitted over a period of time, otherwise known as Energy. Most of us think of these terms as synonymous, but they are not. A KW is a measured real-time rate of electricity generated or consumed. A kWh is a measured amount of power generated, or consumed, over a period of time. If you have a solar generator supplying 6kW to a load …and you run that load for one-and-a-half hours, it will have consumed 9kWh of energy. The load required 6kW of power to run. It used 9kWh of energy over 1.5 hours. The (k) in front of either just means “one thousand,” so 1kW = 1,000 Watts.</p>
+<p>The post <a rel="nofollow" href="https://www.mobilesolarpower.net/what-is-the-difference-between-a-kilo-watt-and-a-kilo-watt-hour/">What is the difference between a Kilo-Watt and a Kilo-Watt-Hour?</a> appeared first on <a rel="nofollow" href="https://www.mobilesolarpower.net">Mobile Solar</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
